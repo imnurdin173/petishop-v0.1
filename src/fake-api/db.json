@@ -1,0 +1,226 @@
+{
+  "users": [
+    {
+      "email": "sanddune24@gmail.com",
+      "nama": "xxx",
+      "handphone": "23424",
+      "password": "pass",
+      "id": 1
+    },
+    {
+      "email": "sanddune24@gmail.com",
+      "nama": "xxx",
+      "handphone": "23424",
+      "password": "pass",
+      "id": 2
+    },
+    {
+      "email": "imam@x.com",
+      "nama": "imam",
+      "handphone": "98199",
+      "password": "imam",
+      "id": 3
+    },
+    {
+      "email": "allllll@x.com",
+      "nama": "ali",
+      "handphone": "232",
+      "password": "pass",
+      "id": 4
+    },
+    {
+      "email": "test2@x.com",
+      "nama": "testroledata",
+      "handphone": "23238",
+      "password": "pass",
+      "id": 5
+    },
+    {
+      "email": "test2@x.com",
+      "nama": "testroledata",
+      "handphone": "232",
+      "password": "pass",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "test3@x.com",
+      "nama": "test3resultdata",
+      "handphone": "232",
+      "password": "pass",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "email": "testdispatch@x.com",
+      "nama": "testdispatch",
+      "handphone": "2323",
+      "password": "pass",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "email": "test4userglobalnama@x.com",
+      "nama": "ali4",
+      "handphone": "234234",
+      "password": "pass",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "email": "imam@mo.com",
+      "nama": "imam",
+      "handphone": "8998",
+      "password": "imam",
+      "role": "user",
+      "id": 10
+    },
+    {
+      "email": "imam2@mo.com",
+      "nama": "imam2",
+      "handphone": "12132",
+      "password": "imam2",
+      "role": "user",
+      "id": 11
+    }
+  ],
+  "transactions": [],
+  "products": [
+    {
+      "id":1,
+    "productName":"whiskas",
+    "productImage":"https://assets.klikindomaret.com/products/20031235/20031235_1.jpg",
+    "productPrice":89000,
+    "description":"whiskas kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":2,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":3,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":4,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":5,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":6,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":7,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":8,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":9,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":10,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":11,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":12,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":13,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":14,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  },
+    {
+    "id":15,
+    "productName":"Pirate Cosplay",
+    "productImage":"https://i.pinimg.com/736x/2b/d6/9b/2bd69bcdef3ef9b96c9d2ac0b94b5067.jpg",
+    "productPrice":50000,
+    "description":"Cosplay kucing",
+    "quantity":50,
+    "category":"petfood"
+  }
+  ],
+  "cart": []
+}

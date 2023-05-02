@@ -1,0 +1,124 @@
+html {
+    height:100%;
+    box-sizing:border-box;
+}
+
+*, *:before,*:after {
+    box-sizing: inherit;
+}
+
+body {
+    position:relative;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+Nav {
+    background: linear-gradient(0deg, rgba(244,76,0,1) 37%, rgba(192,47,5,1) 100%);
+}
+.navbar a {
+    text-decoration: none;
+    list-style: none;
+}
+.navbar-text {
+    color:white;
+    font-weight:bold;
+    letter-spacing: 4px;
+}
+.nav-item a {
+    color: #fff;
+    font-weight: bold;
+}
+
+a { 
+    color:white;
+}
+
+a.nav-link:hover,a.navbar-brand:hover {
+    color:rgb(244, 204, 185);
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+    overflow:hidden;
+}
+
+.product-card {
+    padding:10px;
+    border-radius:8px;
+    transition:all ease 150ms;
+    box-sizing:border-box;
+    width:220px;
+    border:1px solid #e2e5e6;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.product-card:hover{
+   box-shadow:0px 4px 8px rgba(92,107,192,0.2), 0px 2px 4px rgba(59,69,123,0.2); 
+}
+
+#productCard .product-card img {
+    object-fit: contain;
+    height: 250px;
+}
+
+#productCard .BtnCard button {
+    display:none;
+}
+
+#productCard .card:hover {
+    background:rgba(225,225,225,0.5);
+    /* z-index:2; */
+}
+
+#productCard .card.product-card:hover .btnLove {
+    display:block;
+    position:absolute;
+    z-index:2;
+    top:63%;
+    left:25%;
+    border:1px solid #d2d2d2;
+    padding:5px;
+    border-radius:3px;
+}
+
+#productCard .card.product-card:hover .btnCard {
+    display:block;
+    position:absolute;
+    z-index:2;
+    top:60%;
+    right:10%;
+}
+
+.footer {
+    /* display:block; */
+    /* position:absolute; */
+    top:95vh;
+    right:0;
+    left:0;
+    bottom:0;
+    background: linear-gradient(0deg, rgba(115,115,115,1) 0%, rgba(166,166,166,1) 15%, rgba(210,210,210,1) 35%);
+    width:100%;
+    height:50px;
+    padding:15px;
+    /* margin-top:150px; */
+    text-align:center;
+    font-size:14px;
+}
+
+.loginContainer {
+    position: relative;
+    height:63.5vmin;
+}
+
+.MainContain {
+    position: relative;
+    margin-bottom:100px;
+}
